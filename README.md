@@ -4,7 +4,7 @@ This repository contains a solution to the "Landing Page" project from The Odin 
 
 ## 🚀 Live Demo
 
-You can view a live demo of this project [here](https://waliddayf.github.io/odin-landing-page/index.html).
+You can view a live demo of this project [here](https://waliddayf.github.io/odin-landing-page).
 
 ## ✨ Features
 
